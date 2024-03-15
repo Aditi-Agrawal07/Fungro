@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background: #121e2c;
+    color: #fff;
+}
+.nav-link{
+    text-decoration: none;
+    color:#fff
+}
